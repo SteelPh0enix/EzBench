@@ -25,4 +25,4 @@ int main() {
 }
 ```
 
-### Oh, ye, and it needs C++14 to run. Or just delete `constexpr` from `getTimeUnit` function, in case you are using an compiler from 10 years ago.
+### Oh, ye, and it needs C++14 to run. Or just delete `constexpr` from `getTimeUnit` function, in case you are using an compiler from 5 years ago. Tbh you shouldn't. Please, don't.
