@@ -24,3 +24,5 @@ int main() {
             << EzBench::getTimeUnit<std::nano>() << '\n';
 }
 ```
+
+### Oh, ye, and it needs C++14 to run. Or just delete `constexpr` from `getTimeUnit` function, in case you are using an compiler from 10 years ago.
