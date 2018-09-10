@@ -1,11 +1,11 @@
 # EzBench
 Extremely simple and easy, header-only microlibrary for function benchmarking
 
-Also, kinda shitty, but it's written in 10 minutes for a friend, and i thought it might be an "OK-tier" idea to put this here
+Also, kinda shitty, but it's written in 10 minutes for a friend, and I thought it might be an "OK-tier" idea to put this here
 
-Anyway, enjoy. Maybe i'll do something with this later, when i'll have *free time*
+Anyway, enjoy. Maybe I'll do something with this later, when I'll have *free time*
 
-## Example, literally copy-pasted from `main.cpp` because i'm too lazy to do anything else right now
+## Example, literally copy-pasted from `main.cpp` because I'm too lazy to do anything else right now
 
 ```cpp
 #include <iostream>
